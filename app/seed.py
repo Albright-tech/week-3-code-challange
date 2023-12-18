@@ -1,4 +1,4 @@
-#!/home/eugene/.pyenv/shims python3
+
 
 from faker import Faker
 import random
